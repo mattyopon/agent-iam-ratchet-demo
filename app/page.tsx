@@ -44,8 +44,8 @@ export default function Home() {
       {/* Hero */}
       <section className="pt-32 pb-20 px-6">
         <div className="max-w-4xl mx-auto text-center">
-          <div className="inline-block px-3 py-1 rounded-full border border-amber-500/30 bg-amber-500/10 text-amber-400 text-xs font-bold tracking-wider mb-6">
-            US PROVISIONAL PATENT FILED
+          <div className="inline-block px-3 py-1 rounded-full border border-green-500/30 bg-green-500/10 text-green-400 text-xs font-bold tracking-wider mb-6">
+            OPEN SOURCE — MIT LICENSE
           </div>
           <h1 className="text-5xl md:text-7xl font-black tracking-tight leading-[1.1] mb-6">
             AI permissions that
@@ -251,7 +251,7 @@ print(session.effective_scopes)
       {/* Footer */}
       <footer className="py-8 px-6 border-t border-zinc-800/50">
         <div className="max-w-4xl mx-auto flex items-center justify-between text-xs text-zinc-600">
-          <span>Sensitivity Ratchet — US Provisional Patent Filed (2025)</span>
+          <span>Sensitivity Ratchet — Open Source (MIT License)</span>
           <span>MIT License</span>
         </div>
       </footer>
